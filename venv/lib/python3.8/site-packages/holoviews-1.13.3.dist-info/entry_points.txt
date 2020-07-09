@@ -1,3 +1,0 @@
-[console_scripts]
-holoviews = holoviews.util.command:main
-
